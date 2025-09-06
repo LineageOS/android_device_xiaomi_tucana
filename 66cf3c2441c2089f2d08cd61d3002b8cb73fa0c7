@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f9a582d0_0e76483a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2025-09-06T00:29:23Z",
+      "side": 1,
+      "message": "Didn\u0027t use the latest extract utils, fixed",
+      "revId": "66cf3c2441c2089f2d08cd61d3002b8cb73fa0c7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
