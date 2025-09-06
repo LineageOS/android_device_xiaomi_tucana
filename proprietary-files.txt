@@ -1,4 +1,5 @@
 # These proprietary files are extracted from Xiaomi Mi Note 10 (codenamed `tucana`) MIUI V13.0.2.0.RFDMIXM, unless pinned
+
 # ADSP modules
 vendor/lib/rfsa/adsp/capi_v2_aptX_CLHDAD_Encoder.so
 vendor/lib/rfsa/adsp/capi_v2_aptX_Classic.so
