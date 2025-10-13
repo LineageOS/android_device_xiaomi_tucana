@@ -69,6 +69,24 @@
       "parentUuid": "f17fbad6_2b902fcd",
       "revId": "f561de3b239ee8d78b22a6b7aba1a9132331fb8b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a30a7f05_99a29675",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33356
+      },
+      "writtenOn": "2025-10-13T08:18:34Z",
+      "side": 1,
+      "message": "It was off by default even without config_screen_off_udfps_default_on set to false, but okay",
+      "parentUuid": "63deaa9f_cc83f4e5",
+      "revId": "f561de3b239ee8d78b22a6b7aba1a9132331fb8b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
