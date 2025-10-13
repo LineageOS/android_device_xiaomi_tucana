@@ -33,6 +33,24 @@
       "message": "you miss setting config_screen_off_udfps_default_on to false. also maybe this should be on common?",
       "revId": "f561de3b239ee8d78b22a6b7aba1a9132331fb8b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f17fbad6_2b902fcd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-13T07:40:32Z",
+      "side": 1,
+      "message": "Do all devices have udfps?",
+      "parentUuid": "b6dd12ef_298a4148",
+      "revId": "f561de3b239ee8d78b22a6b7aba1a9132331fb8b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
