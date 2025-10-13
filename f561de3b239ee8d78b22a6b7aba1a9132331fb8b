@@ -51,6 +51,24 @@
       "parentUuid": "b6dd12ef_298a4148",
       "revId": "f561de3b239ee8d78b22a6b7aba1a9132331fb8b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "63deaa9f_cc83f4e5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2025-10-13T08:09:45Z",
+      "side": 1,
+      "message": "I was mistaken, I saw 437377 in sm8350-common but I just saw that they have the rro guarded there",
+      "parentUuid": "f17fbad6_2b902fcd",
+      "revId": "f561de3b239ee8d78b22a6b7aba1a9132331fb8b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
