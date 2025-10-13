@@ -87,6 +87,24 @@
       "parentUuid": "63deaa9f_cc83f4e5",
       "revId": "f561de3b239ee8d78b22a6b7aba1a9132331fb8b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2803518c_91c24c4d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2025-10-13T08:21:38Z",
+      "side": 1,
+      "message": "This just makes it match the Pixel commit - https://github.com/LineageOS/android_device_google_caimito/commit/9327094ba237b5d6950abfedd0dbd8d1d3459aab which is why I added it back. You could either mention that it was modified in the commit message or don\u0027t use the Pixel commit if you don\u0027t want to add it.",
+      "parentUuid": "a30a7f05_99a29675",
+      "revId": "f561de3b239ee8d78b22a6b7aba1a9132331fb8b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
